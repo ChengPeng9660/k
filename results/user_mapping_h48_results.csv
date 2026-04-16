@@ -1,0 +1,11 @@
+mode,horizon,model,returncode,mean_all_reward,mean_accepted_reward,accepted_episodes,total_candidate_episodes,acceptance_rate
+brqn_user_mapping,4,MAB,0,530.6233062330623,709.0,100,369,0.27100271002710025
+brqn_user_mapping,4,XgBoost,0,529.7138047138047,523.0769230769231,91,1188,0.0765993265993266
+brqn_user_mapping,4,DQN,0,527.639751552795,568.9024390243902,164,2254,0.07275953859804792
+brqn_user_mapping,4,DRQN,1,nan,nan,nan,nan,nan
+brqn_user_mapping,4,BRQN,0,593.0870083432658,778.8553259141495,629,839,0.7497020262216925
+brqn_user_mapping,8,MAB,0,3015.3846153846152,4600.0,4,13,0.3076923076923077
+brqn_user_mapping,8,XgBoost,0,839.2,0.0,3,250,0.012
+brqn_user_mapping,8,DQN,0,1041.0186199342827,1716.6666666666667,6,1826,0.0032858707557502738
+brqn_user_mapping,8,DRQN,1,nan,nan,nan,nan,nan
+brqn_user_mapping,8,BRQN,0,686.2068965517242,686.2068965517242,116,116,1.0

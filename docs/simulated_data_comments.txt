@@ -1,0 +1,12 @@
+
+Here is the specific location of simulated data for each model:
+BRQN.py: Line 343-362
+DRQN.py: Line 235-254
+DQN.py: Line 226-246
+MAB.py: Line 102-123
+Xgboost.py: Line 105-125
+BDQN.py: Line 330-350
+DNN_BayesianUpdate.py: Line 259-279
+RNN_BayesianUpdate.py: Line 263-282
+
+All the model codes are self-contained with the simulated data: Once the code detects the real-world data is not available (if exists('training_feature_batch.pkl') and exists('testing_feature_batch.pkl'):), the code will generate the simulated data and run the model training automatically. If anyone is interested in the data format required for a specific model, they can always take a look at variables "memory" and ''test_memory" which contains all the training and testing data.

@@ -1,0 +1,6 @@
+course_date: 2026-03-31
+paper: Song, Y., & Sun, T. (2024). Ensemble experiments to optimize interventions along the customer journey: A reinforcement learning approach. Management Science, 70(8), 5115-5130.
+group_size: 8
+type: test
+student_1: Mingxia Li
+student_2: Cheng Peng
